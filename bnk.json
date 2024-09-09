@@ -1,7 +1,7 @@
 {
   "bnk":[
  {
-   "id":3,
+   "id":4,
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack1.jpg?alt=media&token=96d5db72-88cc-4e7d-a855-9f86092e3b46",
       "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack2.jpg?alt=media&token=c8e179f6-5c2a-4b4d-861c-1bc56ae0725c",
       "ism":" ",
@@ -30,7 +30,7 @@
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     },
      {
-       "id":2,
+       "id":3,
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20throy%20of%2Fphoto_2024-08-31_18-27-58.jpg?alt=media&token=fc1118d5-d73d-41df-8b37-d755f8af2e98",
       "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/the%20throy%20of%2Fphoto_2024-08-31_18-27-58%20(2).jpg?alt=media&token=8a9916e2-519a-4ee8-836d-6a084d55f2d4",
       "ism":" ",
@@ -59,7 +59,7 @@
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     },
      {
-   "id":1,
+   "id":2,
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/Extraction%2Fphoto_2024-09-07_08-20-25.jpg?alt=media&token=014c69ec-cbbc-4417-9c8e-61109db143b5",
       "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/Extraction%2Fphoto_2024-08-25_17-09-48.jpg?alt=media&token=b936bc61-6525-4e55-8b57-ec69998b143c",
       "ism":" ",
@@ -88,31 +88,32 @@
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     },
      {
-      "wene1":"https://i.pinimg.com/236x/f7/98/e7/f798e7725570dd02d808b6f0279783d0.jpg",
-      "wene":"https://i.pinimg.com/236x/f7/98/e7/f798e7725570dd02d808b6f0279783d0.jpg",
-      "ism":"دزیناپارا",
-      "nav":"La Casa De Papel",
+ "id":1,
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/sea%20beast%2Fphoto_2024-09-08_18-09-11.jpg?alt=media&token=a8a55ada-48ec-4e59-bcf9-4238fc0dbaf9",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/sea%20beast%2Fphoto_2024-09-08_18-09-12.jpg?alt=media&token=ef311023-0889-45a6-9d45-f868c8d4957c",
+      "ism":" ",
+      "nav":"The Sea Beast",
     "action":"film",
-    "aaction":": Action",
+    "aaction":": Animation",
     "raiting":"star",
-    "araitng":": 6.3",
+    "araitng":": 7.0",
     "time":"time-sharp",
-    "atime":": 2h 19m",
+    "atime":": 1h 55m",
     "trailer":"ترەیلەر",
-    "youtube":"e0dea7qrLdk?si=NpQl8DQtB5jS4EXO",
-      "youtube1":"e0dea7qrLdk?si=NpQl8DQtB5jS4EXO",
-      "youtube2":"e0dea7qrLdk?si=NpQl8DQtB5jS4EXO",
-      "youtube3":"e0dea7qrLdk?si=NpQl8DQtB5jS4EXO",
-      "jor":"دزیناپارا",
-"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/yt.mp4?alt=media&token=5100d737-700d-4811-8200-6926a933bcac",
+    "youtube":"P-E-IGQCsPo?si=0IgOD1eiokYSR-4y",
+      "youtube1":"uLQjpAQvI6Y?si=zn1pmNw4om7F-slZ",
+      "youtube2":"PTdAnghDs-Q?si=eAugKg0uNanj7hTw",
+      "youtube3":"eCDH1vHPLAw?si=3JmHzrM4OxqZrJmg",
+      "jor":"The Sea Beast",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/sea%20beast%2FThe.Sea.Beast.2022.1080p.mp4?alt=media&token=01d90186-a749-4b45-b1a4-b08b47340b7d",
  "kurti":"كورتی",
- "akurti":"گروپێکی نائاسایی دزەکان هەوڵدەدەن تەواوترین دزی لە مێژووی ئیسپانیادا ئەنجام بدەن - دزینی 2.4 ملیار یۆرۆ لە نەعنای شاهانەی ئیسپانیا.",
-"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg",
-"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/38HeVKeOBztVYrLJOWzAtEZiB02.jpg",
- "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/fgyTyrb4QMnK8a0xJhDBRzKE8AJ.jpg",
- "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/vnrfL03NwRJ1X82esSNUoYzASGr.jpg",
- "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/nLaxzU92z14FIbe25sE8jDMIThZ.jpg",
- "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/jJ8UKek4GvQrQUP9q97Kq2MWVqi.jpg",
+ "akurti":"بونەوەرێت ترسناک د بنێ دەریایێ یا دا دهێن و دچن چ کەس وەکی جاکوب هوڵەندی مەزن و خوشتڤی نینە وەختێ مایسی برومبلی یێ گەنج پەیوەندیێ ب وان دکەت و هەڤپەیمانەکا نوی گرێدەن",
+"actor":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9dqaoHGVcKg2B8ziq9mucFnTQiQ.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8GvXtLomIdCjROjlwKQYURKJwIq.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/3oNMQLeIglUl8mSfBvyUW9F8Tc4.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ocKk7Sbhrhx2zeR2ldTpA20NSvx.jpg",
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
 
